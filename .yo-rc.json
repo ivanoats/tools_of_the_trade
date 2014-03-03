@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Tools of the Trade",
+    "packageVersion": "0.0.0",
+    "useSass": true
+  }
+}
